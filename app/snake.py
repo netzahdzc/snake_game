@@ -11,7 +11,7 @@ http://www.grantjenks.com/docs/freegames/#user-guide
 
 """
 
-from random import randrange4654
+from random import randrange
 from turtle import *
 
 from freegames import square, vector
