@@ -37,4 +37,4 @@ jobs:
         image: netzahdzc/snake-game
         registry: docker.io
         username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secreta.DOCKER_PASSWORD }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
