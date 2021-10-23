@@ -1,6 +1,6 @@
 # Snake Game
 
-This is a simple exampel to create a Readme file.
+This is a simple example to create a Readme file.
 
 ## Installation
 

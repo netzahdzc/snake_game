@@ -1,0 +1,1 @@
+freegames >= 2.3.2			#	Library to build videos for educational purpose.
