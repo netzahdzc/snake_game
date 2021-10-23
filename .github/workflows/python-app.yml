@@ -37,7 +37,7 @@ jobs:
     - name: Build & push Docker image
       uses: mr-smithers-excellent/docker-build-push@v4
       with:
-        image: netzahdzc/snake-game:v1
+        image: netzahdzc/snake-game
         registry: docker.io
         dockerfile: Dockerfile.ci
         username: ${{ secrets.DOCKER_USERNAME }}
