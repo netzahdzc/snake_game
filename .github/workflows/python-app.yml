@@ -38,6 +38,7 @@ jobs:
       uses: mr-smithers-excellent/docker-build-push@v4
       with:
         image: netzahdzc/snake-game
+        tags: v1, latest
         registry: docker.io
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
